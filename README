@@ -27,8 +27,8 @@ This is a simple platformer game where the player can jump over obstacles to sco
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/platformer-jump-game.git
-   cd platformer-jump-game
+   git clone https://github.com/mspacemedia/endless-chatgpt.git
+   cd endless-chatgpt
    ```
 
 2. **Open the Game**:
@@ -57,7 +57,7 @@ This is a simple platformer game where the player can jump over obstacles to sco
 
 ## Contributing
 
-Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
+Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request, **BUT PLEASE USE ChatGPT or other AI to create the changes!**
 
 ## License
 
